@@ -1,2 +1,2 @@
-# codeigniter-3-offline-docs
+# CodeIgniter 3.x Offline Docs
 The android app for CodeIngiter developer 
